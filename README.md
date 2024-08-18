@@ -1,13 +1,4 @@
 
-<!-- /!\ Non OCA Context : Set here the badge of your runbot / runboat instance. -->
-[![Pre-commit Status](https://github.com/Time to coode/time_to_coode/actions/workflows/pre-commit.yml/badge.svg?branch=17.0)](https://github.com/Time to coode/time_to_coode/actions/workflows/pre-commit.yml?query=branch%3A17.0)
-[![Build Status](https://github.com/Time to coode/time_to_coode/actions/workflows/test.yml/badge.svg?branch=17.0)](https://github.com/Time to coode/time_to_coode/actions/workflows/test.yml?query=branch%3A17.0)
-[![codecov](https://codecov.io/gh/Time to coode/time_to_coode/branch/17.0/graph/badge.svg)](https://codecov.io/gh/Time to coode/time_to_coode)
-<!-- /!\ Non OCA Context : Set here the badge of your translation instance. -->
-
-<!-- /!\ do not modify above this line -->
-
-# 
 
 Curso de odoo
 
